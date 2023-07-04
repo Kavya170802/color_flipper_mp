@@ -1,1 +1,1 @@
-# color_flipper_mp
+# color_flipper_miniproject
